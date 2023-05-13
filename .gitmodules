@@ -1,3 +1,6 @@
 [submodule "automateMail"]
 	path = automateMail
 	url = D:/Development/AutomateWithPython/automateMail
+[submodule "automateWhatsapp"]
+	path = automateWhatsapp
+	url = D:/Development/AutomateWithPython/automateWhatsapp
