@@ -1,0 +1,3 @@
+[submodule "automateMail"]
+	path = automateMail
+	url = D:/Development/AutomateWithPython/automateMail
